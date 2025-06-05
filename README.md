@@ -6,5 +6,5 @@ Conversión a escala de grises
 Desenfoque (blur)
 Reflejo horizontal y vertical (en color y en blanco y negro)
 
-Además, se incluye una interfaz gráfica desarrollada n PyQT5 para que usuarios sin conocimientos técnicos puedan interactuar con el sistema de manera sencilla.
+Además, se incluye una interfaz gráfica desarrollada en PyQT5 para que usuarios sin conocimientos técnicos puedan interactuar con el sistema de manera sencilla.
 
